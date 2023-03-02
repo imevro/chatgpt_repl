@@ -2,6 +2,8 @@
 
 A CLI for interacting with OpenAI's ChatGPT API using `gpt-3.5-turbo`.
 
+<img width="815" alt="Screenshot 2023-03-02 at 17 05 23" src="https://user-images.githubusercontent.com/775692/222383345-32808883-4165-4768-9937-ef8e4222b19b.png">
+
 ### Key Features
 
 - 🔪 Uses the official ChatGPT API
